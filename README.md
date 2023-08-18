@@ -1,5 +1,3 @@
-
-
 <h2 align="center">👋 Hey there, I'm Shravani! 🚀</h2>
 
 <p align="center">
